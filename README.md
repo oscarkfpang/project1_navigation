@@ -10,7 +10,7 @@ Udacity's Deep Reinforcement Learning Nanodegree Program - Project 1 Navigation
 
 ### Introduction
 
-This is the prob  
+This is the actual running of the DQN agent.
 
 ![Trained Agent][image1]
 
@@ -36,7 +36,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 4. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
 5. Execute `Navigation.ipynb` in jupyter notebook to get start!
-
 
 ### (Optional) Challenge: Learning from Pixels
 
