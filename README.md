@@ -38,7 +38,12 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 4. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
-5. Execute `Navigation.ipynb` in jupyter notebook to get start!
+5. You will also need to install Jupyter Notebook according to the instruction here:
+    - Jupyter Notebook: [click here](https://jupyter.readthedocs.io/en/latest/install.html)
+
+### Execution
+
+Simply run the file `Navigation.ipynb` using Jupyter notebook to get start!
 
 ### Training Outcome
 
