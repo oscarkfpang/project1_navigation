@@ -10,9 +10,14 @@ Udacity's Deep Reinforcement Learning Nanodegree Program - Project 1 Navigation
 
 ### Introduction
 
-This is the actual running of the DQN agent.
+This is the implementation of the Project 1 - Navigation. 
 
-![Trained Agent][image1]
+A Deep Q-Network RL agent is trained to collect yellow bananas in a Unity virtual environment.
+
+This is the actual running of the DQN agent after training.
+![Trained DQN Agent][image1]
+
+### Reward and Action
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
@@ -37,7 +42,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 5. Execute `Navigation.ipynb` in jupyter notebook to get start!
 
-### (Optional) Challenge: Learning from Pixels
+### 
 
 After you have successfully completed the project, if you're looking for an additional challenge, you have come to the right place!  In the project, your agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction.  A more challenging task would be to learn directly from pixels!
 
